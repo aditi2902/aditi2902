@@ -46,9 +46,5 @@ Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi2902&layout=compact&theme=tokyonight)
 
-## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/aditi2902/aditi2902/output/github-contribution-grid-snake.svg)
 
