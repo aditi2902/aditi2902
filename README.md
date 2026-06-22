@@ -48,5 +48,7 @@ Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/aditi2902/aditi2902/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake](https://raw.githubusercontent.com/aditi2902/aditi2902/output/github-contribution-grid-snake.svg)
 
