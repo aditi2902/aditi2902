@@ -9,7 +9,7 @@ Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 - 🤖 Interested in AI, Machine Learning and LLM Systems
 - 💻 Building Full Stack and AI Projects
 - 🌱 Currently learning System Design and Advanced DSA
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: aditiguptaa2902@gmail.com
 
 - ## 🌐 Connect With Me
 
