@@ -40,7 +40,7 @@ Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-**## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aditi2902&theme=tokyonight&show_icons=true)**
 
