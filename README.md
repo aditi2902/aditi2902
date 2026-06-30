@@ -3,7 +3,7 @@
 <h3 align="center">
 Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 </h3>
-## 🚀 About Me
+ 🚀 About Me
 
 - 🎓 CSE Student at MIT Manipal
 - 🤖 Interested in AI, Machine Learning and LLM Systems
@@ -23,7 +23,7 @@ Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 </a>
 </p>
 
-## 🛠 Languages & Tools
+ 🛠 Languages & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
