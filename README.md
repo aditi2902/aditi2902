@@ -42,9 +42,6 @@ Computer Science Engineering Student | AI Enthusiast | Full Stack Developer
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aditi2902&theme=tokyonight&show_icons=true)**
+![Aditi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditi2902&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi2902&layout=compact&theme=tokyonight)
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditi2902&layout=compact&theme=tokyonight)
